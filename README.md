@@ -1,8 +1,12 @@
-#Mi webscrapper
+# Mi webscrapper
+
 <hr/>
+
 This is a simple web scrapper built with:
 - Node.js
+
 ## Dependancies:
+
  - Axios
  - Cheerio
  - Express
